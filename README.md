@@ -1,12 +1,10 @@
 # Hi, I'm Michal
 
-![Profile views](https://komarev.com/ghpvc/?username=mwiraszka&style=flat)
-
 I'm a full-stack software engineer, passionate about designing and building scalable, elegant architectures for mobile and web.
 
 I manage [eagami](https://eagami.com), a small web design and development studio where I build client sites and maintain the [@eagami/ui](https://www.npmjs.com/package/@eagami/ui) component library.
 
-**A few currently live:**
+**In the wild:**
 
 - [London Chess](https://londonchess.ca) — A hub for the London Chess Club and chess events in London, ON
 - [CIRC Aesthetics](https://circaesthetics.ca) — Cosmetic Interventional Radiology Clinic based in London, ON
@@ -82,13 +80,6 @@ I manage [eagami](https://eagami.com), a small web design and development studio
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
 
-<a href="https://github.com/mwiraszka">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mwiraszka&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/mwiraszka">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwiraszka&layout=compact&hide_border=true" />
-</a>
-
 ---
 
 ### Connect with Me
@@ -98,3 +89,7 @@ I manage [eagami](https://eagami.com), a small web design and development studio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/wiraszka/)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=social)](https://instagram.com/musicmichal)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=mwiraszka&style=flat)
