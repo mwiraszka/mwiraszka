@@ -89,7 +89,3 @@ I manage [eagami](https://eagami.com), a small web design and development studio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/wiraszka/)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=social)](https://instagram.com/musicmichal)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=mwiraszka&style=flat)
