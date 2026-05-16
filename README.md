@@ -2,13 +2,13 @@
 
 I'm a full-stack software engineer, passionate about designing and building scalable, elegant architectures for mobile and web.
 
-I manage [eagami](https://eagami.com), a small web design and development studio where I build client sites and maintain the [@eagami/ui](https://www.npmjs.com/package/@eagami/ui) component library.
+I run [Eagami](https://eagami.com), an independent web design and development studio. I also maintain [Eagami UI](https://www.npmjs.com/package/@eagami/ui), the open-source Angular component library most of my client work is built on.
 
-**In the wild:**
+**Eagami in the wild:**
 
 - [London Chess](https://londonchess.ca) — A hub for the London Chess Club and chess events in London, ON
 - [CIRC Aesthetics](https://circaesthetics.ca) — Cosmetic Interventional Radiology Clinic based in London, ON
-- [Brewski Bets](https://brewskibets.com) — A friendly beer-betting platform
+- [Brewski Bets](https://brewskibets.com) — A tracker for casual bets between friends, settled in beer
 
 ---
 
@@ -66,7 +66,6 @@ I manage [eagami](https://eagami.com), a small web design and development studio
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F2A93B?logo=lucidchart&logoColor=white)
@@ -82,7 +81,7 @@ I manage [eagami](https://eagami.com), a small web design and development studio
 
 ---
 
-### Connect with Me
+### Connect
 
 [![GitHub](https://img.shields.io/github/followers/mwiraszka?label=Follow&style=social)](https://github.com/mwiraszka)
 &nbsp;&nbsp;
