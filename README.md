@@ -19,4 +19,3 @@ I run [Eagami](https://eagami.com), an independent web design and development st
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/wiraszka/)
 &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=social)](https://instagram.com/musicmichal)
