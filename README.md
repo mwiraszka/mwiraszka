@@ -19,3 +19,5 @@ I run [Eagami](https://eagami.com), an independent web design and development st
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/wiraszka/)
 &nbsp;&nbsp;
+
+<a href="https://buymeacoffee.com/michalwiraszka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="40"></a>
