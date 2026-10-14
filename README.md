@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer, passionate about designing and building scalable, elegant architectures for mobile and web.
 
-I run [Eagami](https://eagami.com), an independent web design and development studio. I also maintain [Eagami UI](https://eagami.com/ui), the open-source Angular component library most of my client work is built on.
+I run [Eagami](https://eagami.com), an independent web design and development studio. I also maintain [Eagami UI](https://eagami.com/ui), the open-source Angular component library every Eagami site is built on.
 
 **Eagami in the wild:**
 
