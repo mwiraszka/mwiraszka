@@ -10,6 +10,7 @@ I run [Eagami](https://eagami.com), an independent web design and development st
 - [CIRC Aesthetics](https://circaesthetics.ca) — Cosmetic Interventional Radiology Clinic based in London, ON
 - [Chordbomb](https://chordbomb.com) — Identifies the song playing around you and works out its chord progression
 - [Brewski Bets](https://brewskibets.com) — A tracker for casual bets between friends, settled in beer
+- [BeacBeac](https://beacbeac.com) — Attaches accessible stories to physical places, reaching visitors' phones as they approach
 
 ---
 
