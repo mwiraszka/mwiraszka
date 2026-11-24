@@ -6,7 +6,7 @@ I run [Eagami](https://eagami.com), an independent web design and development st
 
 **Eagami in the wild:**
 
-- [Wawa Social](https://wawasocial.com) — Hosts a variety of social events in Warsaw, like singles nights, speed friending and mixers for expats.
+- [Wawa Social](https://wawasocial.com) — Hosts a variety of social events in Warsaw, including singles nights, board game nights, and mixers for expats
 - [London Chess](https://londonchess.ca) — A hub for the London Chess Club and chess events in London, ON
 - [CIRC Aesthetics](https://circaesthetics.ca) — Cosmetic Interventional Radiology Clinic based in London, ON
 - [Chordbomb](https://chordbomb.com) — Identifies the song playing around you and works out its chord progression
